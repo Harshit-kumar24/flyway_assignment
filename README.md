@@ -15,3 +15,11 @@ Correct queries are also giving error.
   
 ![image](https://github.com/Harshit-kumar24/flyway_assignment/assets/108082088/05bfb22b-2e3d-4f7e-925f-0bd53f54d925)
 
+### Output for answer.sh
+### Approach:
+- In this logic I am taking a query and trying to migrate the changes which will be done in a function and if it fails the errors will be logged and will repeat the same process for the next query
+- Not giving errors for the correct query
+### Error:
+- Not able to log the error message for the next failed query.
+
+![image](https://github.com/Harshit-kumar24/flyway_assignment/assets/108082088/631c5ee6-89a6-439d-9d2f-10e475e72b83)
